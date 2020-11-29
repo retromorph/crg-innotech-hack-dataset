@@ -1,0 +1,71 @@
+API_KEY: NONE
+CLASSES:
+- CLASS_NAME: sport
+  SEARCH_KEYWORDS: sport, participation sport
+- CLASS_NAME: fitness
+  SEARCH_KEYWORDS: fitness, aerobics
+- CLASS_NAME: music
+  SEARCH_KEYWORDS: music, moder music, classical music, music instruments
+- CLASS_NAME: poetry
+  SEARCH_KEYWORDS: poetry
+- CLASS_NAME: prose
+  SEARCH_KEYWORDS: books, articles, prose
+- CLASS_NAME: computer games
+  SEARCH_KEYWORDS: computer games, shooters, games, console games
+- CLASS_NAME: drawing
+  SEARCH_KEYWORDS: drawing
+- CLASS_NAME: photography
+  SEARCH_KEYWORDS: photography
+- CLASS_NAME: collecting
+  SEARCH_KEYWORDS: stamp collection, monet collection, collecting
+- CLASS_NAME: comics
+  SEARCH_KEYWORDS: comics
+- CLASS_NAME: anime
+  SEARCH_KEYWORDS: anime
+- CLASS_NAME: movies
+  SEARCH_KEYWORDS: movies
+- CLASS_NAME: TV series
+  SEARCH_KEYWORDS: v
+- CLASS_NAME: shooting
+  SEARCH_KEYWORDS: shooting
+- CLASS_NAME: blogging
+  SEARCH_KEYWORDS: blogging, blogger
+- CLASS_NAME: streaming
+  SEARCH_KEYWORDS: streaming, streamer
+- CLASS_NAME: science
+  SEARCH_KEYWORDS: science
+- CLASS_NAME: Board games
+  SEARCH_KEYWORDS: Board games
+- CLASS_NAME: role playing
+  SEARCH_KEYWORDS: role playing
+- CLASS_NAME: embroidery
+  SEARCH_KEYWORDS: embroidery
+- CLASS_NAME: food
+  SEARCH_KEYWORDS: food
+- CLASS_NAME: cooking
+  SEARCH_KEYWORDS: cooking
+- CLASS_NAME: IT
+  SEARCH_KEYWORDS: IT. informatics, programming
+- CLASS_NAME: tourism
+  SEARCH_KEYWORDS: tourism, cruises, traveling, travel, landmarks
+- CLASS_NAME: shopping
+  SEARCH_KEYWORDS: shopping
+- CLASS_NAME: fine arts
+  SEARCH_KEYWORDS: fine arts
+- CLASS_NAME: company activities
+  SEARCH_KEYWORDS: company activities
+- CLASS_NAME: gardening
+  SEARCH_KEYWORDS: gardening
+- CLASS_NAME: pets
+  SEARCH_KEYWORDS: pets
+- CLASS_NAME: horse breeding
+  SEARCH_KEYWORDS: horse breeding
+- CLASS_NAME: dancing
+  SEARCH_KEYWORDS: dancing
+- CLASS_NAME: car
+  SEARCH_KEYWORDS: car, own car, car problems
+DATASET_NAME: innotech-clusterization
+ENGINE: duckgo
+IMAGE_SIZE: 256
+RESIZE_METHOD: longer_side
+SAMPLES_PER_SEARCH: 500
